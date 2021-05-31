@@ -1,0 +1,29 @@
+.profile {
+	background-image: url(/assets/images/background.jpg);
+}
+
+h1 {
+	color: snow;
+}
+
+section {
+	text-align: center;
+	color: snow;
+}
+
+footer {
+	color: snow;
+}
+
+img {
+	width: 250px;
+	height: 250px;
+}
+
+.imageProfile {
+	text-align: center;
+}
+
+html {
+	background-color: black;
+}
