@@ -1,6 +1,10 @@
-.profile {
+/* .profile {
 	background-image: url(/assets/images/background.jpg);
 	background-size: cover;
+} */
+
+body {
+	background: linear-gradient(to right, #4b0082, #e6e);
 }
 
 h1 {
